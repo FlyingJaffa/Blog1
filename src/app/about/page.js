@@ -23,7 +23,7 @@ const About = () => {
               <li>Breathing</li>
             </ul>
             <p className="text-sm text-gray-400 mt-4">
-              Yep, that's it for now.
+              
             </p>
           </div>
         </div>
@@ -36,7 +36,7 @@ const About = () => {
       </main>
 
       <footer className="text-center p-4 mt-auto bg-black border-t border-gray-800">
-        <p className="text-sm text-gray-600">V1.0 - Built with ❤️ and a sense of humor</p>
+        <p className="text-sm text-gray-600">V1.0</p>
       </footer>
     </div>
   );

@@ -14,7 +14,7 @@ export default function Home() {
           <li className="mb-2 text-center">
             This is my homepage
           </li>
-          <li>It's not very interesting</li>
+          <li>Not very interesting</li>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
